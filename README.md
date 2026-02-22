@@ -48,4 +48,6 @@ Developed a robust data pipeline to handle variable-length motion sequences thro
 
 Optimized model performance for GPU acceleration, significantly reducing inference time for real-time search capabilities.
 
+The complete dataset used for this project is available at the following link: https://drive.google.com/file/d/1RLrcTXsplxNNe_bA83TF0ptSPkp7mWDS/view?usp=sharing
+
 Hazem Wannous and IKEN OMAR. TMR: Text-Motion Retrieval. https://kaggle.com/competitions/tmr-text-motion-retrieval, 2026. Kaggle.
